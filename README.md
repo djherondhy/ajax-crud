@@ -1,6 +1,7 @@
 # CRUD Clientes com PHP e AJAX
 
 Este é um projeto de CRUD (Create, Read, Update, Delete) de Clientes desenvolvido utilizando PHP e AJAX para realizar as requisições sem refresh na página.
+
 ![image](https://github.com/djherondhy/ajax-crud/assets/35778998/d41a4dd2-3e2c-4f7d-a50d-dd6a16062516)
 
 
